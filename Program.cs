@@ -12,6 +12,7 @@ namespace Liste_2026_MihajloUrosevic
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("3/9");
+            Console.WriteLine("Mihajlo Urosevic");
         }
     }
 }
